@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: docker-compose
+
+  jpa:
+    generate-ddl: true
