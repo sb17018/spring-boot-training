@@ -1,4 +1,4 @@
-package ie.yawer.spring_boot_training;
+package ie.yawer.docker_compose;
 
 import ie.yawer.docker_compose.model.Post;
 import ie.yawer.docker_compose.repository.PostRepository;
